@@ -36,15 +36,17 @@ body {
   margin-top: -50px;
 }
 
-#authors .fa {
+#authors .fab {
   font-size: 25px;
 }
+
+
 
 #authors .card:hover {
   background: #3292a6;
   color: #fff;
 }
-#authors .card:hover .fa {
+#authors .card:hover .fab {
   color: #fff;
 }
 
